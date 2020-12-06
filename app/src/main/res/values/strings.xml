@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Calladoc</string>
+    <string name="enter_email">E-mail Address</string>
+    <string name="enter_pass">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="register">Register</string>
+    <string name="reg_ques">Don\'t have an account yet?</string>
+    <string name="reg_slogan">Take health to the next level.</string>
+    <string name="reg_title">Join Us!</string>
+    <string name="enter_name">Name</string>
+    <string name="enter_cpass">Confirm Password</string>
+    <string name="enter_phone">Phone Number</string>
+    <string name="have_acc">Already have an account?</string>
+    <string name="home">Home</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="profile">Profile</string>
+    <string name="log_out">Log Out</string>
+    <string name="greetings">Welcome, User!</string>
+    <string name="phoneNum">+604-2229126</string>
+</resources>

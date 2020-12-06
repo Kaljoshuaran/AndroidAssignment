@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "14143961319",
+    "firebase_url": "https://calladoc-2827a.firebaseio.com",
+    "project_id": "calladoc-2827a",
+    "storage_bucket": "calladoc-2827a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14143961319:android:f2c9255c958b4aee828a42",
+        "android_client_info": {
+          "package_name": "com.example.splashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14143961319-mc3ve5ssfdhgkda9mjmpiiemdll6df66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0sKCqZ_5fFPbgFI3t72ys6e5YxjuppzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14143961319-mc3ve5ssfdhgkda9mjmpiiemdll6df66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
